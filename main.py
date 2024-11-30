@@ -1,4 +1,4 @@
-# This is the main python main file.
+# This is the python main file.
 
 # This is from feature1 branch;
 
@@ -9,3 +9,4 @@
 # git checkout -b feature1
 # this command will not work as feature1 is already created
 # so, git checkout feature1 is enough to switch to the branch
+
