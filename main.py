@@ -1,4 +1,4 @@
-# This is the main python main file.
+# This is the main python file.
 
 # This is from feature1 branch;
 
@@ -9,3 +9,7 @@
 
 # git checkout -b feature2
 # it will checkout feature2 and create featue2 if it is not found.
+
+# git checkout -b feature3 feature2
+# this command will create feature3 taking all code  of feature2.
+# which branch we are currently working on.
