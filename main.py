@@ -9,3 +9,7 @@
 # git checkout -b feature1
 # this command will not work as feature1 is already created
 # so, git checkout feature1 is enough to switch to the branch
+# git checkout -b feature3 feature2
+# Though I am on the main branch, but feature3 will not created 
+# based on main, rather it will all code from feature2
+# as we have explicitly mention feature2
