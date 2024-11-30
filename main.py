@@ -13,3 +13,10 @@
 # git checkout -b feature3 feature2
 # this command will create feature3 taking all code  of feature2.
 # which branch we are currently working on.
+
+# let me create another feature4 branch based on feature3
+# git checkout -b feature4 feature3
+# Now I want to delete feature4
+# git branch -d feature4
+# so, if we want to delete branch, we need to switch antoher branch
+# otherwise, it will let us delete the current branch;
