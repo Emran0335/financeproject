@@ -4,6 +4,7 @@
 
 # git branch -> to check branch;
 # git branch feature1 -> to create branch;
+# git branch -M main(to rename a brach name)
 # git checkout feature1 -> to switch to feature1
 # created branch will copy the code of branch from where we are creating the branch;
 
@@ -20,3 +21,4 @@
 # git branch -d feature4
 # so, if we want to delete branch, we need to switch antoher branch
 # otherwise, it will let us delete the current branch;
+
