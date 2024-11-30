@@ -4,7 +4,8 @@
 
 # git branch -> to check branch;
 # git branch feature1 -> to create branch;
-# git branch -M main(to rename a brach name)
+# git branch -M main(to rename a brach name) 
+# - means to switch to main branch)
 # git checkout feature1 -> to switch to feature1
 # created branch will copy the code of branch from where we are creating the branch;
 
