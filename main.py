@@ -22,4 +22,9 @@
 # git branch -d feature4
 # so, if we want to delete branch, we need to switch antoher branch
 # otherwise, it will let us delete the current branch;
-
+# git reset commitNumber(git log)
+# it will go back to the previous commit. but the code not changed.
+# git log
+# It will help us to get the commitNumber
+# git reset --hard commitNumber
+# It will go back to the previous commit and the code will also be removed from the working directory.
