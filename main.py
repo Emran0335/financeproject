@@ -22,7 +22,12 @@
 # git branch -d feature4
 # so, if we want to delete branch, we need to switch antoher branch
 # otherwise, it will let us delete the current branch;
-
+# git reset commitNumber(git log)
+# it will go back to the previous commit. but the code not changed.
+# git log
+# It will help us to get the commitNumber
+# git reset --hard commitNumber
+# It will go back to the previous commit and the code will also be removed from the working directory.
 # git checkout -b feature1
 # this command will not work as feature1 is already created
 # so, git checkout feature1 is enough to switch to the branch
@@ -30,7 +35,5 @@
 # Though I am on the main branch, but feature3 will not created 
 # based on main, rather it will all code from feature2
 # as we have explicitly mention feature2
-
-
 # git pull origin main
 # -> it will fetch all codes from the origin main branch to the local working directory.
