@@ -22,11 +22,11 @@
 # git branch -d feature4
 # so, if we want to delete branch, we need to switch antoher branch
 # otherwise, it will let us delete the current branch;
-# git reset commitNumber(git log)
+# git reset <commitNumber>(git log)
 # it will go back to the previous commit. but the code not changed.
 # git log
 # It will help us to get the commitNumber
-# git reset --hard commitNumber
+# git reset --hard <commitNumber>
 # It will go back to the previous commit and the code will also be removed from the working directory.
 # git checkout -b feature1
 # this command will not work as feature1 is already created
@@ -37,3 +37,9 @@
 # as we have explicitly mention feature2
 # git pull origin main
 # -> it will fetch all codes from the origin main branch to the local working directory.
+# git restore <filename>
+# You made changes which are not even staged. so, restore them
+# git restore --staged <filename>
+# made changes and have staged those changes. so, get them back.
+# git reset --hard <commithistory>
+# made changes and have committed those changes. so, get them back
