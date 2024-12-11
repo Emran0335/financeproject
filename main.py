@@ -40,6 +40,10 @@
 # git restore <filename>
 # You made changes which are not even staged. so, restore them
 # git restore --staged <filename>
+# git reset <hashNumber>
+# It will get you back
 # made changes and have staged those changes. so, get them back.
 # git reset --hard <commithistory>
 # made changes and have committed those changes. so, get them back
+# git log 
+# to show the hash value
