@@ -47,3 +47,6 @@
 # made changes and have committed those changes. so, get them back
 # git log 
 # to show the hash value
+# git reset head~1
+# It will also get you back to the previous commind
+
