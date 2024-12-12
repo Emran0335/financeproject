@@ -48,5 +48,5 @@
 # git log 
 # to show the hash value
 # git reset head~1
-# It will also get you back to the previous commind
+# It will also get you back to the previous commit.
 
