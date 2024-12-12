@@ -49,4 +49,6 @@
 # to show the hash value
 # git reset head~1
 # It will also get you back to the previous commind
+# fork - get a copy of the code from some other github account to your account
+# fort the project so that a copy of that project is created in your github repository.
 
