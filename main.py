@@ -51,4 +51,9 @@
 # It will also get you back to the previous commind
 # fork - get a copy of the code from some other github account to your account
 # fort the project so that a copy of that project is created in your github repository.
-
+# git remote add upstream url
+# to get the latest code of the upstream forked repository of other github account
+# git remote -v
+# to see the origin account and the upstream account pointers
+# git pull upstream main;
+# to get codes to the upstream main branch to the local repository directory
