@@ -57,3 +57,4 @@
 # to see the origin account and the upstream account pointers
 # git pull upstream main;
 # to get codes to the upstream main branch to the local repository directory
+# sync in the github account option can also help to sync local with github repository.
